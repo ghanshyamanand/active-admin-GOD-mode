@@ -7,11 +7,9 @@ git clone https://github.com/ghanshyamanand/active-admin-GOD-mode.git
 
 ### Install dependencies (ensure bundler is installed)
 ```
-cd interakt
+cd active-admin-GOD-mode
 bundle install
 ```
-Version of Postgresql
-Minimum version of pg is 9.2.4 below versions don't provide support for the json.
 
 CREATE database config (sample config is in config/database_sample.yml)
 ```
